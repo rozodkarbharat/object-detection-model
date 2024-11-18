@@ -1,0 +1,13 @@
+path: C:\Users\rozod\OneDrive\Desktop\furniture_train
+
+train : images/train
+
+val : images/train
+
+
+names:
+  2 : chair
+  0 : table
+  1 : sofa
+  3 : bed
+  4 : cupboard
